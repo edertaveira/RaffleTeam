@@ -1,0 +1,97 @@
+{
+    "jogadores" : [
+        { "nome" : "Higor mengão", "categoriaId" : 1 },
+        { "nome" : "Matheus", "categoriaId" : 1 },
+        { "nome" : "Lucas Emanuel", "categoriaId" : 1 },
+        { "nome" : "Arthur Dousseau", "categoriaId" : 1 },
+        { "nome" : "Augusto Dousseau", "categoriaId" : 1 },
+        { "nome" : "Gabriel Andrade ", "categoriaId" : 1 },
+        { "nome" : "Tiago", "categoriaId" : 1 },
+        { "nome" : "Victor Batista ", "categoriaId" : 1 },
+        { "nome" : "Caio Torres ", "categoriaId" : 1 },
+        { "nome" : "Caio Vinicius", "categoriaId" : 1 },
+        { "nome" : "Daniel Henrique", "categoriaId" : 1 },
+        { "nome" : "Vinícius Henrique", "categoriaId" : 1 } ,
+        { "nome" : "Talles", "categoriaId" : 1 },
+        { "nome" : "Ricardo", "categoriaId" : 1 },
+        { "nome" : "Lourran", "categoriaId" : 1 },
+        { "nome" : "Natanael ", "categoriaId" : 1 },
+        { "nome" : "Gabriel Trindade", "categoriaId" : 1 },
+        { "nome" : "Godoi", "categoriaId" : 1 },
+        { "nome" : "Gustavo", "categoriaId" : 1 } ,
+        { "nome" : "Guilherme", "categoriaId" : 1 },
+        { "nome" : "Victor Bandeira ", "categoriaId" : 1 },
+        { "nome" : "Kaique ", "categoriaId" : 1 },
+        { "nome" : "Jacaré", "categoriaId" : 1 },
+        { "nome" : "Patrick", "categoriaId" : 1 },
+        { "nome" : "Thiago Alves", "categoriaId" : 1 },
+        { "nome" : "Jason", "categoriaId" : 1 },
+        { "nome" : "Lucas Gabriel", "categoriaId" : 1 },
+        { "nome" : "mikaell", "categoriaId" : 1 }
+    ],
+
+    "categorias" : [
+        {
+            "id" : 1, 
+            "nome" : "Sub 30" 
+                
+        }, 
+        {
+            "players" :  [
+                { "nome" : "Erico"},
+                { "nome" : "André Dias"},
+                { "nome" : "Carlos Jr"},
+                { "nome" : "André VASCÃO"},
+                { "nome" : "Carlos Oliveira"},
+                { "nome" : "Dhekison"},
+                { "nome" : "Alexandre"},
+                { "nome" : "Valdir"},
+                { "nome" : "William Martis"},
+                { "nome" : "Wesdro"},
+                { "nome" : "Allan"},
+                { "nome" : "Ari Fogão"},
+                { "nome" : "Wesley"},
+                { "nome" : "Uênio"},
+                { "nome" : "Pedrinho"},
+                { "nome" : "Rodrigão"},
+                { "nome" : "Uramar"},
+                { "nome" : "Ricardo Kabuloso"},
+                { "nome" : "William Vascão"},
+                { "nome" : "Henrique"},
+                { "nome" : "Newton"},
+                { "nome" : "Jandir"},
+                { "nome" : "Carlos Roberto"},
+                { "nome" : "Paulo"},
+                { "nome" : "Plinio"},
+                { "nome" : "Fernando"},
+                { "nome" : "Mário Lima"},
+                { "nome" : "Vitor"},
+                { "nome" : "Alessandro"},
+                { "nome" : "Luiz (Fluzão)"},
+                { "nome" : "Wender"},
+                { "nome" : "Fábio SPFC"},
+                { "nome" : "Leonardo"},
+                { "nome" : "Ronalmengo"},
+                { "nome" : "Dimar"},
+                { "nome" : "Vinícius"},
+                { "nome" : "Itamar"},
+                { "nome" : "Luiz", "bloco": "C"},
+                { "nome" : "Frederico"},
+                { "nome" : "Thiado Custódio"},
+                { "nome" : "Robério"},
+                { "nome" : "Lucas", "bloco" : "A", "apartamento": "1206"},
+                { "nome" : "Wescley", "bloco" : "", "apartamento": ""},
+                { "nome" : "Márcio", "bloco" : "B", "apartamento": "1503"},
+                { "nome" : "Edson", "bloco" : "B", "apartamento": "1602"}
+            ],
+            "goalkeepers" : [
+                { "nome" : "Armando", "posicao": "GOL"},
+                { "nome" : "Éder", "posicao" : "GOL"},
+                { "nome" : "Manoel Junior", "posicao": "GOL"},
+                { "nome" : "João", "posicao" : "GOL"},
+                { "nome" : "Igor", "posicao" : "GOL"}
+            ] 
+                
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "players" :  [
+        { "nome" : "Higor mengão"},
+        { "nome" : "Matheus"},
+        { "nome" : "Lucas Emanuel"},
+        { "nome" : "Arthur Dousseau"},
+        { "nome" : "Augusto Dousseau"},
+        { "nome" : "Gabriel Andrade "},
+        { "nome" : "Tiago"},
+        { "nome" : "Victor Batista "},
+        { "nome" : "Caio Torres "},
+        { "nome" : "Caio Vinicius"},
+        { "nome" : "Daniel Henrique"},
+        { "nome" : "Vinícius Henrique"} ,
+        { "nome" : "Talles"},
+        { "nome" : "Ricardo"},
+        { "nome" : "Lourran"},
+        { "nome" : "Natanael "},
+        { "nome" : "Gabriel Trindade"},
+        { "nome" : "Godoi"},
+        { "nome" : "Gustavo"} ,
+        { "nome" : "Guilherme"},
+        { "nome" : "Victor Bandeira "},
+        { "nome" : "Kaique "},
+        { "nome" : "Jacaré"},
+        { "nome" : "Patrick"},
+        { "nome" : "Thiago Alves"},
+        { "nome" : "Jason"},
+        { "nome" : "Lucas Gabriel"},
+        { "nome" : "mikaell"}
+    ],
+    "goalkeepers" : [
+
+    ] 
+        
+}
